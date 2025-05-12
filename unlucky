@@ -1,0 +1,218 @@
+	1Events are equally possible if …
+none of them will necessarily happen as a result of a trial
+#there is reason to consider that none of them is more possible (probable) than other
+there is reason to consider that one of them is more possible (probable) than other
+at least one of them will necessarily happen as a result of a trial
+one of them will necessarily happen as a result of a trial
+	2The probability of the event A is determined by the formula
+P(A)=(|Ω|)/(|A|), where   is the space of elementary outcomes
+P(A│B)=(|A|)/(|B|), where   is the space of elementary outcomes
+#P(A)=| A|/(|Ω|), where   is the space of elementary outcomes
+P(A)=λ^m/m! e^(-λ), where λ is the space of elementary outcomes
+P(B│A)=λ^m/m!, where   is the space of elementary outcomes
+	3The probability of a reliable event is equal to …
+#1
+0
+½
+1/3
+1/5
+	4The probability of an impossible event is equal to …
+#0
+1
+½
+1/3
+1/5
+	5The probability of a random event is …
+#the positive number between 0 and 1
+the positive number between 0 and ½
+the positive number between 0 and 10
+the positive number between 0 and 1/3
+the positive number between 0 and 1/5
+	6The relative frequency of the event A is defined by the formula:
+#W(A)=m/n, where m is the number of appearances of the event, n is the total number of trials.
+W(A)=m/n, where n is the number of appearances of the event, m+1 is the total number of trials.
+W(A)=m/n, where m+1 is the number of appearances of the event, n is the total number of trials.
+W(A)=(m+1)/n, where m is the number of appearances of the event, n is the total number of trials.
+W(A)=m/(n+1), where m is the number of appearances of the event, n is the total number of trials.
+	 7The number of all possible permutations
+#P_n=n!
+P_n=n!/m!
+P_n=n!/m!(n-m)!
+P_n=n!/(n-m)!
+P_n=(n+1)!
+	8The number of all possible allocations
+#A_n^m=n!/(n-m)!
+A_n^m=n!/m!(n-m)!
+A_n^m=n-m!
+A_n^m=m-n!
+A_n^m=1
+	  9The number of all possible combinations   
+#C_n^m=n!/m!(n-m)!
+C_n^m=n!/(n-m)!
+C_n^m=m!/n!
+C_n^m=n!/m!
+C_n^m=n!
+	10The numbers of allocations, permutations and combinations are connected by the equality
+#A_n^m=P_m C_n^m
+A_n^m=P_n C_n^m
+A_n^m=P_m
+A_n^m=P_m C_m^n
+A_n^m=n!C_n^m
+	11If an object A can be chosen from the set of objects by m ways and after every such choice an object B can be chosen by n ways then the pair of the objects (A, B) in this order can be chosen by ...  ways.
+#mn
+m+n
+n-m
+n!
+N
+	12The probability of appearance of any of two incompatible events is equal to the sum of the probabilities of these events:
+#P(A+B)=P(A)+P(B)
+P(A+B)=P(A)-P(B)
+P(A+B)=P(A)P(B)
+P(AB)=P(A)+P(B)
+P(A)=P(A+B)
+	13Two uniquely possible events forming a complete group are …
+#Opposite
+Same
+Identically distributed
+Sample
+Density function
+	14The sum of the probabilities of opposite events is equal to …
+#1
+0
+½
+1/3
+1/5
+	15The conditional probability of an event B with the condition that an event A has already happened is equal to:
+#P(A|B)=P(AB)/P(B) 
+P(A|B)=(P(AB))/(P(A))
+P(A|B)=P(A)/P(B) 
+P(A|B)=P(B)/P(A) 
+P(A|B)=(P(B))/(P(AB))
+	16For independent events theorem of multiplication has the following form:
+#P(AB)=P(A)P(B)
+P(AB)=P(A)+P(B)
+P(AB)=(P(A)/P(B) 
+P(AB)=P(A)-P(B)
+P(AB)=1
+	 17Find the Bernoulli formula
+P_n(k)=C_n^k*p^k*(1-p)^n-k
+	18 How would it change the expected value of a random variable X if we multiply the X by a number k. 
+ M[kX]=k*M[X]
+	19Which of the following expressions indicates the occurrence of exactly one of the events A, B, C? 
+ A*B*C+A*B*C+A*B*C
+	 20Indicate the formula of computing the dispersion of a random variable X with mathematical expectation µ.
+ D(X)=M(X^2)-m)^2
+	 How would it change the dispersion of a random variable X if we add a number   to the X.
+D(X+a)=D(X)+a
+D(X+a)=D(X)+a2
+#D(X+a)=D(X)
+D(X+a)= D(X)
+D(X+a)= a2D(X)
+	22Indicate the expectation of a Poisson random variable X with parameter  .
+lambda
+	23What kind of distribution is given by the density function    ( )?
+Poisson distribution 
+#Normal distribution  
+Uniform distribution 
+Bernoulli distribution
+Exponential distribution
+
+	24If P(E) is the probability that an event will occur, which of the following must be false?
+P(E)=1
+P(E)=1/2
+P(E)=1/3
+#P(E)= - 1/3
+P(E)=0
+			
+	25 Which one of these variables is a continuous random variable?
+#The time it takes a randomly selected student to complete an exam.
+The number of  tattoos a randomly selected person has.
+The number of women taller than 68 inches in a random sample of 5 women.
+The number of correct guesses on a multiple choice test.
+The number of 1’s in N rolls of a fair die
+
+
+	26A set of possible values that a random variable can assume and their associated probabilities of occurrence are referred to as ...
+#Probability distribution
+The expected value
+The standard deviation
+Coefficient of variation
+Correlation
+	27For a continuous random variable X, the probability density function f(x) represents 
+the probability at a fixed value of  X
+#the area under the curve at X 
+the area under the curve to the right of X
+the height of the function at X
+the integral of  the cumulative distribution function
+	28Which of these has a Geometric model? 
+the number of aces in a five-card Poker hand
+the number of people we survey until we find two people who have taken Statistics
+the number of people in a class of 25 who have taken Statistics
+#the number of people we survey until we find someone who has taken Statistics
+the number of sodas students drink per day
+	29A probability function is a rule of correspondence or equation that:
+Finds the mean value of the random variable.
+Assigns values of x to the events of a probability experiment.
+#Assigns probabilities to the various values of x.
+Defines the variability in the experiment. 
+None of the given answers is correct.
+	30Which of the following is an example of a discrete random variable?
+The distance you can drive in a car with a full tank of gas.
+The weight of a package at the post office.
+The amount of rain that falls over a 24-hour period.
+#The number of cows on a cattle ranch.
+The time that a train arrives at a specified stop.
+
+	31Which of the following is the appropriate definition for the union of two events A and B?
+The set of all possible outcomes.
+#The set of all basic outcomes contained within both A and B.
+The set of all basic outcomes in either A or B, or both.
+None of the given answers
+The set of all basic outcomes that are not in A and B. 
+
+	 32Which of the following statements is always true for A and  ?
+P(AAc)=1
+P(Ac)=P(A)
+P(A+Ac)=0
+#P(AAc)=0
+33None of the given statements is true
+Indicate the correct statement related to Poisson  random variable   
+lambda=np-const,n-8,p-0
+34Choose the density function of random variable X~Exp(λ)
+ phi(x)=lambda*e^-lamdax for x>=0,0 for x<0
+	35Choose the probability distribution function of random variable X~Pois(λ)
+P(X=m)=lambda^m*e^-lambda/m!
+	36Choose the probability density function of random variable X~N(a,σ^2)
+ phi(N))x)=1/omega*2pi *e
+	37the mathematical expectation and dispersion of a random variable X distributed under the binomial law are …, respectively.
+#EX=np,DX=npq
+EX=npq,DX=np
+EX=C_n^k np,DX=npq
+EX=np,DX=C_n^k npq
+EX=np,DX=λ
+	38The mathematical expectation and the dispersion of a random variable distributed under the Poisson are …, respectively.
+#EX=λ,DX=λ
+EX=λ^2,DX=λ
+EX=λ,DX=λ^2
+EX=pqλ,DX=npλ
+EX=λ,DX=λ^3
+	39The probability distribution function of random variable X~Geom(p) is
+#P(X=m)=pq^(m-1)
+
+	40The mathematical expectation and dispersion of a random variable X having the geometrical distribution with the parameter p are …, respectively.
+#EX=1/p,DX=q/p^2 
+EX=npq,DX=np
+EX=1/p,DX=p/q^2 
+EX=q/p,DX=q/p^2 
+EX=np,DX=λ
+	41Find the density function of random variable X~U[a,b]
+ phi(x)=1/b-a,0
+ 
+	42The mathematical expectation and dispersion of a random variable X having the uniformly distribution on [a,b] are …, respectively.
+#EX=(a+b)/2,DX=(b-a)^2/12
+EX=(a-b)/2,DX=(b-a)^2/12
+EX=(a+b)/2,DX=(b+a)^2/12
+EX=q/p,DX=q/p^2 
+EX=(a+b)/2,DX=(b-a)^2/15
+43Write the density of probability of a normally distributed random variable X if M(X) = 5, D(X) = 16.
+ f(x)=1/4*2pi*e
